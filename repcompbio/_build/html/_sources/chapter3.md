@@ -1,0 +1,3 @@
+# Chapter 3: Case studies for computer scientists
+
+Pellentesque et cursus velit. Suspendisse pharetra viverra sollicitudin. Pellentesque vestibulum nulla in euismod consectetur. Donec pharetra eu sem ac consequat. Suspendisse a augue suscipit est malesuada imperdiet id non neque. Sed odio massa, pulvinar a viverra vel, semper eget enim. Sed lobortis, ante quis vulputate semper, diam ipsum convallis enim, ut gravida urna neque vel lectus. Curabitur imperdiet sagittis venenatis. Curabitur tincidunt pellentesque tellus, quis egestas augue auctor eget. Nunc malesuada tortor sed elit pellentesque ultricies. Suspendisse id facilisis quam. 
