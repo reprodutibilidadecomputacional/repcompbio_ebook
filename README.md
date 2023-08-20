@@ -10,6 +10,9 @@ Usamos o gerador de sites estático [MkDocs](https://www.mkdocs.org/) para gerar
 pip install mkdocs
 ```
 
+> O projeto inclui um environment.yaml para criar um ambiente conda com as dependências necessárias para o desenvolvimento. Fique a vontade para usa-lo caso já tenha familiaridade com conda.
+
+
 Para testar suas alterações em seu computador use o comando:
 
 ```bash

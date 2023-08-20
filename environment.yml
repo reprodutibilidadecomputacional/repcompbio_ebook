@@ -1,0 +1,9 @@
+# for use with conda (https://docs.conda.io/en/latest/miniconda.html):
+# conda env create -f environment.yml
+name: "repcompbio-ebook"
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - mkdocs
